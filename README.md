@@ -4,7 +4,7 @@
 
 ## Music Festival Artist Reviews
 
-The general process of Extract, Transform, and Load (ETL) occurs when data copied from one or more sources and is then uploaded to a final destination source(s), but is manipulated and appears differently than the source data and/or in a different context than the source.
+The general process of Extract, Transform, and Load (ETL) occurs when data is copied from one or more sources and is then uploaded to a final destination source(s), but is manipulated and appears differently than the source data and/or in a different context than the source.
 
 ---
 
