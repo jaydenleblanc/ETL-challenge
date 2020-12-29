@@ -30,7 +30,7 @@ Using a database from the musical festival, Pitchfork, and song data from Spotif
 ## Getting Started
 
 1. Clone this repo
-2. View ERD for overview of tables in Notebook_Script
+2. View ERD for overview of tables in the database
 3. Pitchfolk Database
    (Contained Tables: Content, Genre, Lables, Artist, Reviews)
 4. Spotify csv file
