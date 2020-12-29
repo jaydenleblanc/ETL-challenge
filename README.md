@@ -8,7 +8,7 @@ The general process of Extract, Transform, and Load (ETL) occurs when data is co
 
 ## Objective
 
-Using a database from the musical festival, Pitchfork, and song data from Spotify, a SQL database was created and queried. The final objective was to create a table of the relationship between the two data sources and show the music festival reviews for each related Spotify artist.
+Using a database from the musical festival, Pitchfork, and song data from Spotify, a postreSQL database was created and relationships of shared data were queried.
 
 ## Methods Used
 
